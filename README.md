@@ -1,1 +1,2 @@
-# leetcode
+* leetcode
+Improve coding skill.
